@@ -12,7 +12,9 @@ function App() {
       Hello world!
     </h1>
 
-      <LandingPage/> 
+      <div className="container">
+        <LandingPage/> 
+      </div>
     </div>
   );
 }
